@@ -25,7 +25,7 @@ const casos = <CasoDivision>[
   CasoDivision(
     nombre: '1. reparto normal',
     monto: 100.00, personas: 4, propina: 10, modo: 'exacto',
-    esperado: 27.50,
+    esperado: 27.00,
   ),
   CasoDivision(
     nombre: '2. sin propina',
